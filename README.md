@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:7A62D8,100:DE64CB&height=150&section=header&text=Seunghyun030430&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div align="center">	
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyun030430&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-<br><br>
+<br>
 안녕하세요<br>
 인공지능 과학자 이승현입니다.
 </div>
 
 
-<h2 align="center"> 🛠️ TECH STACK 🛠️</h2>
+<h2 align="center"> ⚙️ TECH STACK ⚙️ </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239218.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
@@ -32,9 +31,22 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white">
+<br>
+<br>
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyun030430&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
 
-<h2 align="center"> 📡 Contact 📡 </h2>
+<br>
+<h2 align="center"> ✏️ Problem Solving ✏️ </h2>
+<div align="center">
+	<a href="https://solved.ac/nalsh430">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nalsh430"/>
+		<img src="https://mazandi.herokuapp.com/api?handle=nalsh430&theme=warm"/>
+	</a>
+	
+</div>
+<br>
+<h2 align="center"> 📫 Contact 📫 </h2>
 <div align="center">
 	<a href="mailto:seunghyun030430@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -50,12 +62,7 @@
 		<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 	</a>
 </div>
-
-<h2 align="center"> 📝 Study 📝 </h2>
-<div align="center">
-	<a href="https://solved.ac/nalsh430">
-		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nalsh430"/>
-		<img src="https://mazandi.herokuapp.com/api?handle=nalsh430&theme=warm"/>
-	</a>
-</div>
-
+<br>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyun030430&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
