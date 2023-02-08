@@ -8,7 +8,7 @@
 </div>
 
 
-<h2 align="center"> TECH STACK </h2>
+<h2 align="center"> 🛠️ TECH STACK 🛠️</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239218.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white">
 </div>
 
-<h2 align="center"> Contact me </h2>
+<h2 align="center"> 📡 Contact 📡 </h2>
 <div align="center">
 	<a href="mailto:seunghyun030430@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -51,7 +51,7 @@
 	</a>
 </div>
 
-<h2 align="center"> Problem Solving </h2>
+<h2 align="center"> 📝 Study 📝 </h2>
 <div align="center">
 	<a href="https://solved.ac/nalsh430">
 		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nalsh430"/>
