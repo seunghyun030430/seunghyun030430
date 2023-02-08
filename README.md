@@ -34,8 +34,12 @@
 <br>
 <br>
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyun030430&layout=compact&theme=nord&hide_border=true" /></a>
+<br>
 </div>
-
+<h2 align="center"> 📂 Project 📂 </h2>
+<div align="center">
+	<p>동아리 <무붕> 웹 어플리케이션 (2023.01 ~ )</p>
+</div>
 <br>
 <h2 align="center"> ✏️ Problem Solving ✏️ </h2>
 <div align="center">
