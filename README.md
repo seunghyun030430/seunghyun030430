@@ -2,7 +2,7 @@
 
 <div align="center">
 안녕하세요<br>
-인공지능 개발자 이승현입니다.
+인공지능 과학자 이승현입니다.
 </div>
 
 <h2 align="center"> STACK </h2>
