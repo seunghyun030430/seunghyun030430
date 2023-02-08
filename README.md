@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Seunghyun030430&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:7A62D8,100:DE64CB&height=150&section=header&text=Seunghyun030430&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div align="center">	
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyun030430&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
@@ -8,7 +8,7 @@
 </div>
 
 
-<h2 align="center"> STACK </h2>
+<h2 align="center"> TECH STACK </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239218.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
