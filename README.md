@@ -2,8 +2,8 @@
 
 <div align="center">	
 <br>
-안녕하세요<br>
-인공지능 과학자 이승현입니다.
+HELLO<br>
+I'm AI Engineer Seunghyun Lee.
 </div>
 
 
